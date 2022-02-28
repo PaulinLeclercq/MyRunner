@@ -18,7 +18,7 @@ git clone git@github.com:PaulinLeclercq/MyRunner.git
 ## Usage
 
 ```sh
-make ; ./my_runner 1.txt
+make ; ./my_runner -h
 ```
 
 ## Author
