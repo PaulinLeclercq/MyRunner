@@ -11,7 +11,7 @@
 
 ## Demo
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/PaulinLeclercq/MyRunner/blob/main/runner.gif)
 
 ## Install
 
