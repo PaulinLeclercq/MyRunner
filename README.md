@@ -25,11 +25,8 @@ make ; ./my_runner 1.txt
 
 👤 **Paulin Leclercq**
 
-* LinkedIn: [@Paulin Leclercq](https://linkedin.com/in/Paulin Leclercq)
+* LinkedIn: [@paulinleclercq](https://www.linkedin.com/in/paulinleclercq/)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
