@@ -9,6 +9,10 @@
 > Enemies appear randomly on the map. If you touch them, you die!
 > Gold coins give you two points and red coins removes you two points. Be careful which one you take!
 
+## Demo
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ## Install
 
 ```sh
